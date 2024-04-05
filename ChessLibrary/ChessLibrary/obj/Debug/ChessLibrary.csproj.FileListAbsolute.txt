@@ -1,0 +1,6 @@
+D:\Projects\КП и ЯП\Курсовая\ChessLibrary\ChessLibrary\bin\Debug\ChessLibrary.dll
+D:\Projects\КП и ЯП\Курсовая\ChessLibrary\ChessLibrary\bin\Debug\ChessLibrary.pdb
+D:\Projects\КП и ЯП\Курсовая\ChessLibrary\ChessLibrary\obj\Debug\ChessLibrary.csprojAssemblyReference.cache
+D:\Projects\КП и ЯП\Курсовая\ChessLibrary\ChessLibrary\obj\Debug\ChessLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\КП и ЯП\Курсовая\ChessLibrary\ChessLibrary\obj\Debug\ChessLibrary.dll
+D:\Projects\КП и ЯП\Курсовая\ChessLibrary\ChessLibrary\obj\Debug\ChessLibrary.pdb

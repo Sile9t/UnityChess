@@ -1,0 +1,10 @@
+D:\Projects\КП и ЯП\Курсовая\ChessLibrary\DemoChess\bin\Debug\DemoChess.exe.config
+D:\Projects\КП и ЯП\Курсовая\ChessLibrary\DemoChess\bin\Debug\DemoChess.exe
+D:\Projects\КП и ЯП\Курсовая\ChessLibrary\DemoChess\bin\Debug\DemoChess.pdb
+D:\Projects\КП и ЯП\Курсовая\ChessLibrary\DemoChess\bin\Debug\ChessLibrary.dll
+D:\Projects\КП и ЯП\Курсовая\ChessLibrary\DemoChess\bin\Debug\ChessLibrary.pdb
+D:\Projects\КП и ЯП\Курсовая\ChessLibrary\DemoChess\obj\Debug\DemoChess.csproj.CoreCompileInputs.cache
+D:\Projects\КП и ЯП\Курсовая\ChessLibrary\DemoChess\obj\Debug\DemoChess.csproj.CopyComplete
+D:\Projects\КП и ЯП\Курсовая\ChessLibrary\DemoChess\obj\Debug\DemoChess.exe
+D:\Projects\КП и ЯП\Курсовая\ChessLibrary\DemoChess\obj\Debug\DemoChess.pdb
+D:\Projects\КП и ЯП\Курсовая\ChessLibrary\DemoChess\obj\Debug\DemoChess.csproj.AssemblyReference.cache
